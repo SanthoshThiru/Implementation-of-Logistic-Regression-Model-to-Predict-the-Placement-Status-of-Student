@@ -78,12 +78,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-*** The Logistic Regression Model to Predict the Placement Status of Student:
+The Logistic Regression Model to Predict the Placement Status of Student:
+## Placement Data:
 ![Screenshot 2024-03-20 113321](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/92d9f627-c903-4329-a6fe-c3fd4653fede)
+## Y_prediction array:
 ![Screenshot 2024-03-20 113353](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/674b9a2e-b2c9-44b2-b970-0ebddc1f81fc)
+## Accuracy value:
 ![Screenshot 2024-03-20 113406](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/56f17194-7cca-46b2-ab56-0323251b1d5a)
+## Confusion array:
 ![Screenshot 2024-03-20 113414](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/f80d7eab-00e4-45af-8ccf-678454f198d0)
+
+## Classification Report:
 ![Screenshot 2024-03-20 113449](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/616d9723-e7be-411b-91cf-488b414f0a88)
+## Prediction of LR:
 ![Screenshot 2024-03-20 113520](https://github.com/SanthoshThiru/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/148958618/6cf6849b-0d45-4d56-b589-1ec3842c4189)
 
 
